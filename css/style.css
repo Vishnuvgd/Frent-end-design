@@ -159,7 +159,7 @@ a{
     list-style: none;
 }
 
-ul li {
+ul li,p {
     font-weight:lighter;
     font-size: 14px;
     padding-top: 3%;
